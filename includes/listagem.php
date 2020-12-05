@@ -84,7 +84,7 @@ $mensagem = '';
                     <th>Nome</th>
                     <th>Cor</th>
                     <th>Preço</th>
-                    <th>Prço com desconto</th>
+                    <th>Preço com desconto</th>
                     <th>Ações</th>
                 </tr>
             </thead>
