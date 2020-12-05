@@ -1,0 +1,15 @@
+{
+    "name": "vendor/marcos",
+    "authors": [
+        {
+            "name": "spindola001",
+            "email": "marcos.spindola001@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {}
+}
