@@ -22,6 +22,6 @@
 
 # Como rodar a aplicação
 
-- Faça o clone da aplicão, e no diretório em que foi salvo entre como comando: __composer install___
+- Faça o clone da aplicão, e no diretório em que foi salvo entre com o comando: __composer install___
 - Importe o banco de dados para seu gerenciador de banco de dados
 - Dê um start no seu servidor local e rode a aplicação
